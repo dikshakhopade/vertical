@@ -1,0 +1,169 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./image1/launch.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background-color: rgba(173, 216, 230, 0.407);
+    width: 14%;
+    height: 100vh;
+}
+#cont{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;   
+    padding: 20px;
+    display: block;
+}
+a:hover{
+    background-color: grey;
+}
+#menu{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop{
+    position: relative;
+}
+#drop:hover #menu{
+    display: block;
+}
+#menu1{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop2{
+    position: relative;
+}
+#drop2:hover #menu1{
+    display: block;
+}
+#menu2{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop3{
+    position: relative;
+}
+#drop3:hover #menu2{
+    display: block;
+}
+#menu3{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop4{
+    position: relative;
+}
+#drop4:hover #menu3{
+    display: block;
+}
+#menu4{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop1{
+    position: relative;
+}
+#drop1:hover #menu4{
+    display: block;
+}
+#menu5{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop5{
+    position: relative;
+}
+#drop5:hover #menu5{
+    display: block;
+}
+#menu6{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop6{
+    position: relative;
+}
+#drop6:hover #menu6{
+    display: block;
+}
+#menu7{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop7{
+    position: relative;
+}
+#drop7:hover #menu7{
+    display: block;
+}
+#menu8{
+    padding: 0px;
+    margin: 0px;    
+    list-style-type: none;
+    background-color: grey;
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    display: none;
+}
+#drop8{
+    position: relative;
+}
+#drop8:hover #menu8{
+    display: block;
+}
